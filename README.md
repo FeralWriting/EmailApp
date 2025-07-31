@@ -12,7 +12,7 @@ The Email class received user data for name, staff department, and personal emai
 
 ### Email Methods
 
-There are getters and setters to allow users to display or amend account information, as well as a constructor to initialize the email account. There is a method to set the department, which takes direct user input using Scanner. There is also a method to generate a random password which uses Java's Math framework.
+There are getters and setters to allow users to display or amend account information, as well as a constructor to initialize the email account. The email is concatenated using the data received. There is a method to set the department, which takes direct user input using Scanner. There is also a method to generate a random password which uses Java's Math framework.
 
 ### EmailApp
 
